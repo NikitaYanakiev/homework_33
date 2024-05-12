@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": ":)",
+    "description": "Smiling Candidate"
+  },
+  {
+    "id": 2,
+    "name": ":(",
+    "description": "Sad Candidate"
+  },
+  {
+    "id": 3,
+    "name": ":))))",
+    "description": "Just Another Candidate"
+  }
+]

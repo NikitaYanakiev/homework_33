@@ -1,0 +1,21 @@
+.SmileCard {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+}
+
+.btn__vote {
+    cursor: pointer;
+    padding: 10px 15px;
+    background-color: #27ae60;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
